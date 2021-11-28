@@ -1,0 +1,27 @@
+.container {
+  display: flex;
+    flex-wrap: wrap;
+    justify-content: spacep-around;
+     /* background-color: gray;  */
+}
+.car {
+  width:30%
+}
+.car img {
+  width:150px;
+  height: 150px;
+}
+
+
+body {
+  background-color: rgba(248, 188, 198, 0.374);
+}
+
+.imageVid {
+
+margin: 5%
+
+}
+.movieTrailer {
+align-items: baseline;
+}
